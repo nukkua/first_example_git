@@ -17,3 +17,9 @@ body {
 #container h1{
   font-size: 20px;
 }
+#cabecera{
+  width: 100%;
+}
+#cabecera img {
+  width:100%;
+}
